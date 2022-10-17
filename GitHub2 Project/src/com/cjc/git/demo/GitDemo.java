@@ -10,5 +10,8 @@ public class GitDemo {
 	{
 	
 	System.out.println("welcome here");
-	}	
+	}
+	public void m2(){
+		System.out.println("Git is not good");
+	}
 }
