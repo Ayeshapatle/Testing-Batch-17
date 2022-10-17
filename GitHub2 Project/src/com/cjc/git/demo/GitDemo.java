@@ -15,7 +15,13 @@ public class GitDemo {
 		System.out.println("Git is not good");
 	}
 	
-	public void name() {
+	public void push() {
 		System.out.println("Pusing=====");
 	}
+	public void pull() {
+		System.out.println("Pulling=====");
+	}
+	
+	
+	
 }
