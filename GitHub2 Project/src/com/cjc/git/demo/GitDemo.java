@@ -6,5 +6,9 @@ public class GitDemo {
 		
 		System.out.println("Git Hub");
 	}
+	public void m1()
+	{
 	
+	System.out.println("welcome here");
+	}	
 }
