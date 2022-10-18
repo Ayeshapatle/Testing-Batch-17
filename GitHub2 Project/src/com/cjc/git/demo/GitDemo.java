@@ -25,6 +25,7 @@ public class GitDemo {
 	public void m2()
 	{
 		System.out.println("Hii");
+		System.out.println("Hello");
 	}
 	
 	
