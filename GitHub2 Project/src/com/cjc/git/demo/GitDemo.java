@@ -13,6 +13,7 @@ public class GitDemo {
 	}
 	public void m2(){
 		System.out.println("Git Program");
+		System.out.println("Changes in git program");
 	}
 	
 	public void push() {
