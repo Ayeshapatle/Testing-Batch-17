@@ -11,7 +11,7 @@ public class GitDemo {
 	
 	System.out.println("welcome here");
 	}
-	public void m2(){
+	public void m3(){
 		System.out.println("Git Program");
 		System.out.println("Changes in git program");
 	}
@@ -21,6 +21,10 @@ public class GitDemo {
 	}
 	public void pull() {
 		System.out.println("Pulling=====");
+	}
+	public void m2()
+	{
+		System.out.println("Hii");
 	}
 	
 	
