@@ -12,7 +12,7 @@ public class GitDemo {
 	System.out.println("welcome here");
 	}
 	public void m2(){
-		System.out.println("Git is not good");
+		System.out.println("Git Program");
 	}
 	
 	public void push() {
